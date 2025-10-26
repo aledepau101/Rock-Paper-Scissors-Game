@@ -6,7 +6,7 @@ I made this simple program to practice my new aquired skills in Javascript.
 
 ---
 
-## 🧠 How It Works
+##How It Works
 
 The game runs for **5 rounds**, where:
 1. The player is prompted to choose between **paper**, **scissors**, or **rock**.

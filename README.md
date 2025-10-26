@@ -20,5 +20,7 @@ Click this link to Play:
 
 https://aledepau101.github.io/Rock-Paper-Scissors-Game/
 
+(Might need to reload if errors, or if you want to start a new game)
+
 
 
